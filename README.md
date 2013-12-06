@@ -1,4 +1,5 @@
 BcfReporter
 ===========
 
-Reports BCF from modelchecking feature in BIMserver
+Reports BCF from modelchecking feature in BIMserver.
+
