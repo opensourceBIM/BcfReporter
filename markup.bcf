@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Markup>
+    <Header>
+        <File IfcProject="344O7vICcwH8qAEnwJDjSU">
+            <Filename>C:\\_wouter\\Dropbox\\Axxx mooiland\\C153\\Geodan Info\\simpel huisje.ifc</Filename>
+            <Date>2013-07-24T15:39:18.000+02:00</Date>
+        </File>
+    </Header>
+    <Topic Guid="24b7a67d-38a2-4566-98de-65a4cba15b02">
+        <ReferenceLink>Place reference link here.</ReferenceLink>
+        <Title>Place exchange requirement here.</Title>
+    </Topic>
+    <Comment Guid="61574dbe-27a3-4236-988b-dfe472c07ccb">
+        <VerbalStatus>Open</VerbalStatus>
+        <Status>Error</Status>
+        <Date>2013-12-04T14:47:21.394+01:00</Date>
+        <Author>JoostMeulenkamp</Author>
+        <Comment>Place exchange requirement here.</Comment>
+        <Topic Guid="24b7a67d-38a2-4566-98de-65a4cba15b02"/>
+    </Comment>
+</Markup>
